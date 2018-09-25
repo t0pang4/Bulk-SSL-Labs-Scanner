@@ -11,4 +11,4 @@ python scanner.py -i "domains.txt" [-o]
 ```
 **-o** *is an optional argument if you want results from cache rather than starting a new assessment.*
 
-*Included an example text file with 3 domains.*
+*Included an example text file with 2 domains.*
